@@ -15,6 +15,8 @@ Understanding of concepts such as Data Transformation, Feature Engineering, Mode
 
 Ensure you have Pandas, Numpy, Matplotlib, Seaborn, and SciKit Learn installed.
 
+![Alt text](image-2.png)
+
 ### Building Process
 
 Load the necessary datasets and libraries required for the project.
